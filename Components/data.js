@@ -5,7 +5,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fmetadata-static.plex.tv%2F7%2Fgracenote%2F7550c782d7822b589d0d1a718ce73657.jpg",
       rate:"4.6",
       description:"The oldest son of a loving and strong family of black sharecroppers comes of age in the Depression-era South after his father is imprisoned for stealing food.",
-      trailer:"https://watch.plex.tv/movie/sounder",
+      trailer:"https://www.youtube.com/embed/j1TqnIgn1P4",
   },
   {
       id:Math.random(),
@@ -13,7 +13,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4h1yCQ7N1P31dL9tWCZthyr5T6a.jpg",
       rate:"2.2",
       description:"Sean Austin follows the unexplained as he explores hauntings and the paranormal.",
-      trailer:"https://watch.plex.tv/show/shadow-chaser",
+      trailer:"https://www.youtube.com/embed/6LzbgQgQ69s",
   },
   {
       id:Math.random(),
@@ -21,7 +21,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8SkdvXB4kI66QZmvFdUxRlcEWXK.jpg",
       rate:"3.0",
       description:"A small group of Somali refugee girls struggle to put the distrust and animosity of war behind them as they create a new life in America. A dedicated middle school principal is challenged as an educator, a leader and a peacemaker.",
-      trailer:"https://watch.plex.tv/movie/lessons-of-basketball-and-war",
+      trailer:"https://www.youtube.com/embed/wyWAHDP-8IQr",
   },
   {
       id:Math.random(),
@@ -29,7 +29,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
       rate:"4.1",
       description:"Animation, Comedy, Family, Romance, Children",
-      trailer:"https://watch.plex.tv/show/popeye-the-sailor",
+      trailer:"https://www.youtube.com/embed/nSdz5ln2rME",
   },
   {
       id:Math.random(),
@@ -37,7 +37,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FAeOFMwxX5ovWDtKQ1qvm4Ohvele.jpg",
       rate:"2.2",
       description:"Maddy and Cole were inseparable friends until high school started and Maddy became the most popular girl on campus",
-      trailer:"https://watch.plex.tv/movie/f-the-prom",
+      trailer:"https://www.youtube.com/embed/6j-s9E3dRQ0",
   },
   {
       id:Math.random(),
@@ -45,7 +45,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgsWdYsXkpJx2CYkveEw779O5eMg.jpg",
       rate:"3.4",
       description:"In the summer of 1991, a sheltered teenage boy comes of age during a wild summer he spends on Cape Cod getting rich from selling pot to gangsters, falling in love for the first time, partying and eventually realizing that he is in over his head.",
-      trailer:"https://watch.plex.tv/movie/hot-summer-nights",
+      trailer:"https://www.youtube.com/embed/M2nWr1jwPK4",
   },
   {
       id:Math.random(),
@@ -53,7 +53,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fge2OYsxE1jmDcG4BgnA2Lh7BtYc.jpg",
       rate:"4.5",
       description:"Eight close friends soak up their last day of summer together on the beach before parting ways for college.",
-      trailer:"https://watch.plex.tv/movie/summer-of-8",
+      trailer:"https://www.youtube.com/embed/Q9VLwuoCdxs",
   },
   {
       id:Math.random(),
@@ -61,7 +61,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmQrwpYJ7qsAb0rjIoD117aaJPfI.jpg",
       rate:"4.3",
       description:"A woman who is fed up with her mundane lifestyle hatches a scheme to make her family instant celebrities, but not everything goes as planned as her wild tempered ex-boyfriend starts to lose it.",
-      trailer:"https://watch.plex.tv/movie/austin-found",
+      trailer:"https://www.youtube.com/embed/PFx-BpbRDTk",
   },
   {
       id:Math.random(),
@@ -69,7 +69,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5tx4eGgX0Ede9oiLJD8adM5Iv6O.jpg",
       rate:"2.7",
       description:"Astor's happy tenacity spoils his one chance at love with his lifelong crush Mila. Convinced he needs more experience with women to win her back, he engages her ex-best friend Cali to teach him how to woo women.",
-      trailer:"https://watch.plex.tv/movie/lust-for-love",
+      trailer:"https://www.youtube.com/embed/w_fy3efQCaE",
   },
   {
       id:Math.random(),
@@ -77,7 +77,7 @@ export const moviedata=[
       posterUrl:"https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhuMy3LnFvpiD8ewlIYRIEBRms6l.jpg",
       rate:"3.7",
       description:"London, an overcrowded cafe, one table to share. Two strangers tell each other “how I met my fiancé” stories to kill time. Rikki met his fiance Anaida at the Ritz in Paris and Alvira met her prince charming Steve at Madame Tussauds",
-      trailer:"https://watch.plex.tv/movie/jhoom-barabar-jhoom",
+      trailer:"https://www.youtube.com/embed/ZKkM_cK4RCk",
   },
   {
       id:Math.random(),
@@ -85,7 +85,7 @@ export const moviedata=[
       posterUrl:"https://cfm.yidio.com/images/movie/28450/poster-180x270.jpg",
       rate:"3.6",
       description:"The story begins with a panda named Po",
-      trailer:"https://www.yidio.com/movie/kung-fu-panda/28450",
+      trailer:"https://www.youtube.com/embed/PXi3Mv6KMzY",
   },
   {
       id:Math.random(),
@@ -93,7 +93,7 @@ export const moviedata=[
       posterUrl:"https://cfm.yidio.com/images/movie/22266/poster-180x270.jpg",
       rate:"2.2",
       description:"In this religious drama, a young Jewish man is tortured and killed for his radical religious beliefs. The Passion of the Christ was criticized on its release for its gleeful violence. Mel Gibson directs.",
-      trailer:"https://www.yidio.com/movie/the-passion-of-the-christ/22266",
+      trailer:"https://www.youtube.com/embed/4Aif1qEB_JU",
   },
   {
       id:Math.random(),
@@ -101,7 +101,7 @@ export const moviedata=[
       posterUrl:"https://cfm.yidio.com/images/movie/34975/poster-180x270.jpg",
       rate:"4.8",
       description:"Warm Bodies is a major motion picture set for a theatrical release of February 2013. The movie is based on the book Warm Bodies by Isaac Marion.",
-      trailer:"https://www.yidio.com/movie/warm-bodies/34975",
+      trailer:"https://www.youtube.com/embed/07s-cNFffDM",
   },
   {
       id:Math.random(),
@@ -109,6 +109,6 @@ export const moviedata=[
       posterUrl:"https://cdn.fmoviesf.co/the-human-voice-poster.png",
       rate:"4.9",
       description:"A woman watches time passing next to the suitcases of her ex-lover (who is supposed to come pick them up, but never arrives) and a restless dog who doesnt understand that his master has abandoned him. Two living beings facing abandonment.",
-      trailer:"https://fmoviesf.co/movie/the-human-voice-2020-045695/",
+      trailer:"https://www.youtube.com/embed/G3lGM39dKuY",
   }];
   

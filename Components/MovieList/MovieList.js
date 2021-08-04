@@ -1,7 +1,5 @@
 import React from 'react'
 import MovieCard from '../MovieCard/MovieCard'
-
-
 const MovieList = ({movieList,handleDelete}) => {
     return (
         <div className="d-flex justify-content-around flex-wrap">
